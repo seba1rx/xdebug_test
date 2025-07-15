@@ -1,3 +1,11 @@
+# apache - php - xdebug
+
+This docker container has a demo implementation of xdebug intended to be used in vscode, using windows and WSL
+
+Be sure to install the official vscode extension called "PHP Debug" by Xdebug.
+
+Note that in the docker-compose.yml file I am using port 8085, change it to 80 if you like.
+
 ## Trying to get XDEBUG running from vscode
 
 The goal of this container is to be able to test the required configuration and required files in order to use xdebug
