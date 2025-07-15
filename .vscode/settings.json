@@ -1,0 +1,5 @@
+{
+  "php.validate.executablePath": "/usr/bin/php",
+  "php.debug.port": 9003,
+  "php.debug.log": true
+}
